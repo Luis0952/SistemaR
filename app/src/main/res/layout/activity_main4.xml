@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.quiz.sistemar.MainActivity4">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/traquea"
+                android:src="@drawable/traquea"
+                android:layout_width="300dp"
+                android:layout_height="200dp"
+                android:layout_marginStart="54dp" />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView"
+                android:layout_below="@+id/traquea"
+                android:layout_margin="20dp"
+                android:textColor="#212121"
+                android:text="Conducto respiratorio de los vertebrados, formado por anillos cartilaginosos, que empieza en la laringe y desciende por delante del esófago hasta la mitad del pecho, donde se bifurca formando los bronquios."/>
+
+
+
+
+
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+</LinearLayout>

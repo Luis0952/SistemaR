@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.quiz.sistemar.MainActivity2">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RelativeLayout
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+
+            <ImageView
+                android:id="@+id/fosas"
+                android:layout_width="300dp"
+                android:layout_height="250dp"
+                android:layout_margin="40dp"
+                android:src="@drawable/fosasnasales"
+                android:layout_centerHorizontal="true" />
+
+            <TextView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/fosas"
+                android:textColor="#212121"
+                android:layout_margin="10dp"
+                android:textSize="20dp"
+                android:text="Las fosas nasales son dos cavidades separadas por un delgado tabique sagital, comunicadas con el exterior por los orificios nasales o narinas situadas en la cabeza, por encima de la cavidad bucal."
+
+
+
+
+
+                />
+
+        </RelativeLayout>
+    </RelativeLayout>
+</LinearLayout>

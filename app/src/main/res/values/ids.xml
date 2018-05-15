@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btn2" type="id">btn2</item>
+    <item name="btn3" type="id">btn3</item>
+    <item name="btn4" type="id">btn4</item>
+    <item name="btn5" type="id">btn5</item>
+    <item name="btn6" type="id">btn6</item>
+    <item name="btn7" type="id">btn7</item>
+    <item name="btn8" type="id">btn8</item>
+    <item name="btn9" type="id">btn9</item>
+    <item name="btn10" type="id">btn10</item>
+    <item name="btn11" type="id">btn11</item>
+    <item name="btn12" type="id">btn12</item>
+    <item name="btn13" type="id">btn13</item>
+    <item name="btn14" type="id">btn14</item>
+    <item name="btn15" type="id">btn14</item>
+    <item name="btn16" type="id">btn16</item>
+    <item name="btn17" type="id">btn17</item>
+    <item name="btn18" type="id">btn18</item>
+    <item name="btn19" type="id">btn19</item>
+    <item name="btn20" type="id">btn20</item>
+    <item name="btn1" type="id">btn1</item>
+</resources>
